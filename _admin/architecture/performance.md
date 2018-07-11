@@ -79,3 +79,13 @@ The maximum number of connections should be less than or equal to 25.
 
 For scheduled pinboards, ideal performance is to have 50 or fewer scheduled
 pinboard jobs.
+
+## Users
+
+|Description |Boundary|
+|-------------------------|--------------------|
+|named users | 10,000-25,000 |
+|logged-in users | 1,000-2,500 |
+|actively querying users 100-250 |
+
+
