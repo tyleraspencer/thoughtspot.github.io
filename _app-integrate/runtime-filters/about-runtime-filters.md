@@ -22,8 +22,7 @@ Filter is operating on the column "Color" and will only return values that are
 equal (EQ) to "red".
 
 ```
-http://10.77.144.40:8088/?col1=Color&op1=EQ&val1=red#
-/pinboard/e36ee65e-64be-436b-a29a-22d8998c4fae
+https://10.77.144.40:8088/#/pinboard/e36ee65e-64be-436b-a29a-22d8998c4fae?col1=Color&op1=EQ&val1=red
 ```
 
 This example shows the URL for a REST API call with a filter. Here the Runtime
